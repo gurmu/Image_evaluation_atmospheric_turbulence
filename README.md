@@ -8,5 +8,6 @@ on the   face recognition system described in
 
 Qiang Meng,  Shichao Zhao,  Zhida Huang,  and Feng Zhou.Magface: A universal representation for face recognition and quality assessment.   In Proceedings  of the  IEEE/CVF  Conference on Computer Vision and Pattern Recognition, pages14225–14234, 2021.
 
-
+mage_preprocessing.ipynb for gaussian blur
+tur folder with code for attempting to generate atmospheric turbulence images
 
